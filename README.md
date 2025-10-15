@@ -19,3 +19,9 @@ A Retrieval-Augmented Generation pipeline for document Q&A.
 - `POST /upload` - Upload documents
 - `POST /query` - Ask questions
 - `GET /documents` - View metadata
+
+## GitHub Repository
+**Source Code:** https://github.com/Nomakhan16/rag-pipeline
+
+## Live Demo
+**Deployed Application:** http://54.237.37.87:8000/docs
